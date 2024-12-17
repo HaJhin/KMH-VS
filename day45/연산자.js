@@ -32,4 +32,3 @@ console.log(age++); // 후위증가 , 출력 -> 증가 , 40
 console.log(age); // 41
 console.log(++age); // 선위증가 , 증가 -> 출력 , 42
 console.log(age); // 42
-console.log(age--); // 
